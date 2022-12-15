@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: url(C:/Users/mudda/OneDrive/Desktop/website/bgimg.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    float: auto;
+    
+    list-style-type: devanagari;
+}
+
+logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
